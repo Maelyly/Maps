@@ -3,7 +3,7 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter_google_maps/flutter_google_maps.dart';
 
 void main() {
-  GoogleMap.init('AIzaSyCrF2NKtQcxSIUV9UHwIYXLUWjo71SWX60');
+  GoogleMap.init('AIzaSyCU9R-aX8UYVl6hIVPPJsajX9lHxpCCWdY');
   WidgetsFlutterBinding.ensureInitialized();
   runApp(MyApp());
 }
